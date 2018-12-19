@@ -1,4 +1,4 @@
-﻿// Copyright (c) Microsoft Corporation, Inc. All rights reserved.
+// Copyright (c) Microsoft Corporation, Inc. All rights reserved.
 // Licensed under the MIT License, Version 2.0. See License.txt in the project root for license information.
 
 using System;
@@ -15,7 +15,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("Microsoft.AspNet.Identity.EntityFramework")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2013")]
+[assembly: AssemblyCopyright("\x00a9 Microsoft Corporation All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -39,10 +39,10 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
+// [assembly: AssemblyVersion("0.31.0.0")]
 
-[assembly: AssemblyVersion("2.0.0.0")]
-[assembly: AssemblyFileVersion("2.1.0.0")]
+[assembly: AssemblyVersion("0.31.0.0")]
+[assembly: AssemblyFileVersion("0.31.71219.0")]
 [assembly: AssemblyMetadata("Serviceable", "True")]
 [assembly:
     InternalsVisibleTo(

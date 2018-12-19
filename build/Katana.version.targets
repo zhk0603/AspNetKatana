@@ -4,12 +4,12 @@
     <ShipVersion>4.0.0</ShipVersion>
     <ShipStrongNameVersion>4.0.0.0</ShipStrongNameVersion>
     <ShipFullVersion>4.0.0-rtm-000</ShipFullVersion>
-    <ShipFileVersion>4.0.71218.0</ShipFileVersion>
+    <ShipFileVersion>4.0.71219.0</ShipFileVersion>
     <MajorVersion>4</MajorVersion>
     <MinorVersion>0</MinorVersion>
     <PatchVersion>0</PatchVersion>
     <BuildQuality>rtm</BuildQuality>
-    <BuildDate>71218</BuildDate>
+    <BuildDate>71219</BuildDate>
     <BranchSuffix></BranchSuffix>
     <Eula>https://www.microsoft.com/en-us/web/webpi/eula/net_library_eula_ENU.htm</Eula>
     <ProjectUrl>https://github.com/aspnet/AspNetKatana/</ProjectUrl>
